@@ -1,0 +1,25 @@
+{
+  "name": "js_dom_manipulation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PremTheEngineer/React_Learning.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "PremTheEngineer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PremTheEngineer/React_Learning/issues"
+  },
+  "homepage": "https://github.com/PremTheEngineer/React_Learning#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
