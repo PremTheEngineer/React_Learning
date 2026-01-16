@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // Elements banata hai react and root banata hai react dom
 // In the { } we give attributes such as id, class etc
 // multiple siblings can be added via an array
